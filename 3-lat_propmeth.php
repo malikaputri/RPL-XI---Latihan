@@ -1,6 +1,5 @@
 <?php 
-	class Mobil
-	{
+	class Mobil{
 		public $merk;
 		public $warna;
 
