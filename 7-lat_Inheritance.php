@@ -1,11 +1,11 @@
 <?php
 
 class Mobil{    
-    var $nama,
-    	$merk,
-    	$warna,
-    	$kecepatanMaks,
-    	$jumlahPenumpang ;
+    public $nama,
+    	   $merk,
+    	   $warna,
+    	   $kecepatanMaks,
+    	   $jumlahPenumpang ;
 
     public function tambahKecepatan(){
  		return "Kecepatan bertambah";
